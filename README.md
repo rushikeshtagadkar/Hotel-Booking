@@ -2,8 +2,6 @@
 
 The Hotel Booking is a project developed using Jupyter Notebooks and various programming languages aimed at simulating and managing hotel reservations and bookings. It provides functionalities for both hotel administrators and customers to handle room reservations, check-in/check-out procedures, and other hotel management tasks.
 
-[![hotel_booking]()](https://github.com/rushikeshtagadkar/Hotel-Booking/blob/main/Hotel%20Booking.mp4)
-
 
 ## Objectives
 
